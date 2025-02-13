@@ -2,13 +2,13 @@
 
 A simple **C-based Expense Tracking System** that allows users to manage their expenses efficiently.
 
-## 📌 Features
+## Features
 - 📂 Add, view, and delete expenses
 - 📊 Sort expenses by category or amount
 - 📅 Generate monthly spending reports
 - 💾 Persistent storage using file I/O
 
-## 🚀 How to Run
+## How to Run
 1. **Compile the project:**
    ```
    gcc main.c expense.c file_io.c -o expense_tracker.exe -mconsole
@@ -18,7 +18,7 @@ A simple **C-based Expense Tracking System** that allows users to manage their e
    expense_tracker.exe
    ```
 
-## 📜 File Structure
+## File Structure
 ```
 Expense_Tracker_Project/
 ├── expense.c
@@ -30,13 +30,13 @@ Expense_Tracker_Project/
 └── .gitignore  # Files to ignore in Git
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **C Programming**
 - **GCC Compiler**
 - **Git & GitHub for version control**
 
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! Feel free to **fork** this repository and submit a **pull request**.
 
 ---
