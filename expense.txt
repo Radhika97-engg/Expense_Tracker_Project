@@ -1,0 +1,5 @@
+05-01-2025|Car Insurance|350.00
+06-02-2025|Grocery|250.00
+03-01-2025|Home Insurance|200.00
+02-01-2025|Health and Beauty|50.00
+01-02-2025|Movies and Liesure|34.00
